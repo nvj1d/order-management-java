@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/eclipse-workspace/GestionIID1/additext/commons-dbutils-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/eclipse-workspace/GestionIID1/additext/mysql-connector-java-8.0.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/eclipse-workspace/GestionIID1/additext/rs2xml.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
